@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.miimo36.twa",
-        "sha256_cert_fingerprints": ["DE:8C:90:98:B6:80:7D:70:87:FA:49:F4:A6:3B:D5:4A:54:CF:6E:68:7B:29:E1:E0:46:7F:E1:AF:2E:BE:B2:33"]
-      }
-    }]
